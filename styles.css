@@ -94,10 +94,10 @@ body {
 }
 
 .card img {
-    height: auto;
+    height: 21rem;
     margin: auto;
-    padding: 1rem;
-    border-radius: 1.7rem;
+    margin: 1rem;
+    border-radius: 1rem;
 }
 
 .card h1 {
