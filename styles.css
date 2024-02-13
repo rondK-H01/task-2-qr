@@ -85,7 +85,7 @@ body {
 
 .card {
     background-color: hsl(0, 0%, 100%);
-    width: 22rem;
+    width: 20rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -94,8 +94,6 @@ body {
 }
 
 .card img {
-    height: 21rem;
-    margin: auto;
     margin: 1rem;
     border-radius: 1rem;
 }
